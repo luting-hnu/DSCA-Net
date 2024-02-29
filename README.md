@@ -45,5 +45,5 @@ main.py
 If you find this paper useful, please cite:
 
 ```
-Ting Lu, Yuxin Fang, Wei Fu, Kexin Ding and Xudong Kang, "Dual-stream Class-adaptive Network for Semi-supervised Hyperspectral Image Classificatio," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-11, 2024, Art no. 5507511, doi: 10.1109/TGRS.2024.3357455.
+Ting Lu, Yuxin Fang, Wei Fu, Kexin Ding and Xudong Kang, "Dual-stream Class-adaptive Network for Semi-supervised Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-11, 2024, Art no. 5507511, doi: 10.1109/TGRS.2024.3357455.
 ```
